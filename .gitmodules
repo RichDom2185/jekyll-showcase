@@ -1,0 +1,3 @@
+[submodule "jekyll-fancy-tables"]
+	path = jekyll-fancy-tables
+	url = https://github.com/RichDom2185/jekyll-fancy-tables.git
