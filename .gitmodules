@@ -4,3 +4,6 @@
 [submodule "jekyll-admonitions"]
 	path = jekyll-admonitions
 	url = https://github.com/RichDom2185/jekyll-admonitions.git
+[submodule "jekyll-capture-html"]
+	path = jekyll-capture-html
+	url = https://github.com/RichDom2185/jekyll-capture-html.git
