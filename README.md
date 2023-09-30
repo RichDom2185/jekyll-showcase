@@ -74,6 +74,36 @@ becomes HTML like this...
 </tbody>
 </table>
 
+### [jekyll-auto-tooltips](https://github.com/RichDom2185/jekyll-auto-tooltips)
+
+A Jekyll plugin that allows you to create custom, reusable, no-JavaScript tooltips using an easy-to-write syntax.
+
+<table>
+<thead>
+<tr>
+<th>Example 1</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+
+Markdown code like this...
+
+```markdown
+* An [[ apple ]]
+* Two [[ apple:apples ]]
+* [[ apple:Apple ]], not to be confused with the computer company, Apple Inc.
+```
+
+becomes HTML like this...
+
+![Tooltips example 1](images/tooltips1.png)
+</td>
+</tr>
+</tbody>
+</table>
+
 ### [jekyll-fancy-tables](https://github.com/RichDom2185/jekyll-fancy-tables)
 
 A Jekyll plugin that allows you to create tables with a bit more flair than the default Markdown table syntax.
