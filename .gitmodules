@@ -10,3 +10,6 @@
 [submodule "jekyll-plantuml"]
 	path = jekyll-plantuml
 	url = https://github.com/RichDom2185/jekyll-plantuml.git
+[submodule "jekyll-auto-tooltips"]
+	path = jekyll-auto-tooltips
+	url = https://github.com/RichDom2185/jekyll-auto-tooltips.git
