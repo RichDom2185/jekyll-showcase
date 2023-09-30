@@ -7,3 +7,6 @@
 [submodule "jekyll-capture-html"]
 	path = jekyll-capture-html
 	url = https://github.com/RichDom2185/jekyll-capture-html.git
+[submodule "jekyll-plantuml"]
+	path = jekyll-plantuml
+	url = https://github.com/RichDom2185/jekyll-plantuml.git
