@@ -52,14 +52,14 @@ becomes HTML like this...
 Markdown code like this...
 
 ````markdown
-```danger
+```warning
 Don't ever run `rm -rf /` _unless_ you know what you are doing.
 ```
 ````
 
 becomes HTML like this...
 
-> **Danger**
+> **Warning**
 > Don't ever run `rm -rf /` _unless_ you know what you are doing.
 
 <!-- <div class="admonition admonition-type-danger">
