@@ -1,6 +1,4 @@
 {
   "line-length": false,
-  "no-inline-html": {
-    "allowed_elements": ["table", "thead", "tbody", "tr", "th", "td", "tbody"]
-  }
+  "no-inline-html": false
 }
