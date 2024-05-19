@@ -35,7 +35,7 @@ This is a note, which is something **you should probably remember**.
 
 becomes HTML like this...
 
-> **Note**
+> [!NOTE]
 > This is a note, which is something **you should probably remember**.
 
 <!-- <div class="admonition admonition-type-note">
@@ -59,7 +59,7 @@ Don't ever run `rm -rf /` _unless_ you know what you are doing.
 
 becomes HTML like this...
 
-> **Warning**
+> [!WARNING]
 > Don't ever run `rm -rf /` _unless_ you know what you are doing.
 
 <!-- <div class="admonition admonition-type-danger">
